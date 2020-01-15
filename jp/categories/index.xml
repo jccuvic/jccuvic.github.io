@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ユウビック日本文化クラブ</title>
-    <link>https://jccuvic.github.io/jp/categories/</link>
+    <link>https://jccuvic.ca/jp/categories/</link>
     <description>Recent content in Categories on ユウビック日本文化クラブ</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://jccuvic.github.io/jp/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jccuvic.ca/jp/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

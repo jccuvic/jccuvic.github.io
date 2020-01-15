@@ -3,93 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jccuvic.github.io/jp/blog/</loc>
+    <loc>https://jccuvic.ca/jp/blog/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/blog/"
+                href="https://jccuvic.ca/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/blog/"
+                href="https://jccuvic.ca/jp/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/blog/jp/blogging/</loc>
+    <loc>https://jccuvic.ca/jp/blog/jp/blogging/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/</loc>
+    <loc>https://jccuvic.ca/jp/</loc>
     <lastmod>2019-11-23T15:28:43+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/"
+                href="https://jccuvic.ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/"
+                href="https://jccuvic.ca/jp/"
                 />
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/categories/</loc>
+    <loc>https://jccuvic.ca/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/categories/"
+                href="https://jccuvic.ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/categories/"
+                href="https://jccuvic.ca/jp/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/tags/</loc>
+    <loc>https://jccuvic.ca/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/tags/"
+                href="https://jccuvic.ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/tags/"
+                href="https://jccuvic.ca/jp/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/resources/</loc>
+    <loc>https://jccuvic.ca/jp/resources/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/resources/"
+                href="https://jccuvic.ca/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/resources/"
+                href="https://jccuvic.ca/jp/resources/"
                 />
   </url>
   
   <url>
-    <loc>https://jccuvic.github.io/jp/about/</loc>
+    <loc>https://jccuvic.ca/jp/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jccuvic.github.io/about/"
+                href="https://jccuvic.ca/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://jccuvic.github.io/jp/about/"
+                href="https://jccuvic.ca/jp/about/"
                 />
   </url>
   
