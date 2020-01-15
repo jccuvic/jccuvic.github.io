@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ユウビック日本文化クラブ</title>
+    <link>https://jccuvic.github.io/jp/blog/</link>
+    <description>Recent content in Blogs on ユウビック日本文化クラブ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate>
+    
+	<atom:link href="https://jccuvic.github.io/jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ユウビック文化クラブのウェブサイト開発面形</title>
+      <link>https://jccuvic.github.io/jp/blog/jp/blogging/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://jccuvic.github.io/jp/blog/jp/blogging/</guid>
+      <description>なぜユウビック日本文化クラブはウェブサイトがそもそも必要なの? それをいわれてしまうと。。。</description>
+    </item>
+    
+  </channel>
+</rss>

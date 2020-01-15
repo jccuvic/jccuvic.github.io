@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ユウビック日本文化クラブ</title>
+    <link>https://jccuvic.github.io/jp/</link>
+    <description>Recent content on ユウビック日本文化クラブ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Nov 2019 15:28:43 +0600</lastBuildDate>
+    
+	<atom:link href="https://jccuvic.github.io/jp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ユウビック文化クラブのウェブサイト開発面形</title>
+      <link>https://jccuvic.github.io/jp/blog/jp/blogging/</link>
+      <pubDate>Sat, 23 Nov 2019 15:28:43 +0600</pubDate>
+      
+      <guid>https://jccuvic.github.io/jp/blog/jp/blogging/</guid>
+      <description>なぜユウビック日本文化クラブはウェブサイトがそもそも必要なの? それをいわれてしまうと。。。</description>
+    </item>
+    
+    <item>
+      <title>リソース</title>
+      <link>https://jccuvic.github.io/jp/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jccuvic.github.io/jp/resources/</guid>
+      <description>何を書いたらいい感じになるかなー FitnessGram™ペーサーテストは、多段階の有酸素能力テストであり、継続するにつれて徐々に難しくなります。 20メートルのペーサーテストは30秒後に開始されます。 開始時に整列します。 走行速度はゆっくりと始まりますが、この信号を聞いてから毎分速くなります。 [ビープ音]この音が聞こえるたびに、1周する必要があります。 [ding]直線で走ることを忘れずに、できるだけ長く走ってください。 サウンドの前にラップを完了できなかった2回目は、テストが終了します。 テストは開始という言葉から始まります。 準備ができたら、始めましょう。</description>
+    </item>
+    
+    <item>
+      <title>内容</title>
+      <link>https://jccuvic.github.io/jp/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jccuvic.github.io/jp/about/</guid>
+      <description>こちらにいろいろのせ</description>
+    </item>
+    
+  </channel>
+</rss>
